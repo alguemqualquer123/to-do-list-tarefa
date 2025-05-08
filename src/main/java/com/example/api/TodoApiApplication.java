@@ -9,7 +9,7 @@ import org.springframework.http.ResponseEntity;
 
 @SpringBootApplication
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/")
 public class TodoApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TodoApiApplication.class, args);
