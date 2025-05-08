@@ -14,8 +14,8 @@ Uma API REST simples para gerenciar tarefas, desenvolvida com **Java 17**, **Spr
 
 ```bash
 # Clone o repositório
-git clone https://github.com/alguemqualquer123/api_store_java.git
-cd api_store_java
+git clone https://github.com/alguemqualquer123/to-do-list-tarefa.git
+cd to-do-list-tarefa
 
 # Execute a aplicação
 mvn spring-boot:run
