@@ -18,7 +18,7 @@ git clone https://github.com/alguemqualquer123/to-do-list-tarefa.git
 cd to-do-list-tarefa
 
 # Execute a aplicação
-mvn spring-boot:run
+mvn spring-boot:run 
 
 A API estará disponível em: http://localhost:8080
 
